@@ -12,6 +12,6 @@ Either upload the file Biosynthesis_Flux_Allocation_Model.ipynb into Google Driv
 * Python packages: pandas, numpy, matplotlib, and seaborn
 
 # Licence
-This repository was build under the MIT Licence (2024) by Dahlin Zevallos-Aliaga, Frank Britto Bisso, Nicolás A. Vaccari, Maarten Dequanter, Stijn De Graeve, Tom Peeters and Daniel G. Guerra.
+This repository was build under the MIT Licence (2025) by Dahlin Zevallos-Aliaga, Frank Britto Bisso, Nicolás A. Vaccari, Maarten Dequanter, Stijn De Graeve, Tom Peeters and Daniel G. Guerra.
 
 
